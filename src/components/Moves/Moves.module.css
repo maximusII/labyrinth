@@ -1,0 +1,7 @@
+.move__board {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 250px;
+}
